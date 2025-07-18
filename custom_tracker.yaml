@@ -1,0 +1,6 @@
+
+                track_high_thresh: 0.6
+                track_low_thresh: 0.2
+                match_thresh: 0.85
+                frame_rate: 25
+                
